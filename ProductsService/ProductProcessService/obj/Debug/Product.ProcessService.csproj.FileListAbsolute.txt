@@ -1,0 +1,9 @@
+C:\_src\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.dll
+C:\_src\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.pdb
+C:\_src\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.dll
+C:\_src\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.pdb
+C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DataService.dll
+C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DataService.pdb
+C:\_src\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csprojResolveAssemblyReference.cache

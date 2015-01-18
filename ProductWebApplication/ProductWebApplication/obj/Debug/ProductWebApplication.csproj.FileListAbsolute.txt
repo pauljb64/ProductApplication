@@ -1,0 +1,5 @@
+C:\_src\ProductWebApplication\ProductWebApplication\bin\ProductWebApplication.dll
+C:\_src\ProductWebApplication\ProductWebApplication\bin\ProductWebApplication.pdb
+C:\_src\ProductWebApplication\ProductWebApplication\obj\Debug\ProductWebApplication.csprojResolveAssemblyReference.cache
+C:\_src\ProductWebApplication\ProductWebApplication\obj\Debug\ProductWebApplication.dll
+C:\_src\ProductWebApplication\ProductWebApplication\obj\Debug\ProductWebApplication.pdb

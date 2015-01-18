@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-ng-app ="productListApp">
+<head>
+    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 141px;
+        }
+    </style>
+</head>
+<body>
+    <div class="gridProduct productTable" data-ng-controller="productsCatalogController">
+            <table class="grid_productTable"  >
+                <thead>
+                <tr class="tableTitle">
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+                </thead>
+                <tbody class="bodyProductList">
+                <tr class="repeatProducts" data-ng-repeat="product in prods.products" style="width:auto">
+                <td class="cell_productTable"><strong>{{product.Name}}</strong></td>
+                <td class="cell_productTable"><strong>£{{product.Price}}</strong></td>  
+                <td><button class="btn btn-success btn-sm" data-ng-click ="addProductBasket(product);" >Buy</button></td>
+                </tr>
+                </tbody>
+            </table>
+    <table class="grid_orderTable" border="0" style="display:inline-block;" >
+        <thead>
+             <tr class="tableTitle">
+                    <th>My Basket</th>
+                </tr>
+            </thead>
+         <tbody class="bodyBasket">
+        <tr class="repeatProducts" data-ng-repeat="product in prods.basket.products">
+            <td class="cell_orderTable">{{product.Name}}</td>
+            <td class="cell_orderTable">£{{product.Price}}</td>
+         </tr>
+            <tr>
+               <td>Total: £{{prods.basket.totalAmount}}</td>
+               <td><button class="btn btn-danger btn-lge" data-ng-click="postCheckout(prods.basket)">Checkout</button></td>
+            </tr>
+        </tbody>
+    </table>
+ </div>
+ <script src="/app/Scripts/angular.min.js"></script>
+ <script src="/app/Scripts/angular-route.min.js"></script>
+  <script src="/app/Scripts/angular-resource.min.js"></script>
+      <script src="/app/app.js"></script>
+    <link rel="stylesheet" href="/app/css/style.css"/>
+    <link rel="stylesheet" href="/app/css/bootstrap.css"/>
+
+</body>
+</html>

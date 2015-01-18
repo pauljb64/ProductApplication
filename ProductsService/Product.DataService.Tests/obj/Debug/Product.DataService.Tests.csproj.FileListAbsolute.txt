@@ -1,0 +1,9 @@
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.Tests.dll
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.Tests.pdb
+C:\_src\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.csprojResolveAssemblyReference.cache
+C:\_src\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.dll
+C:\_src\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.pdb
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.dll
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.pdb
