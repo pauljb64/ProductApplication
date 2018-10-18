@@ -2,3 +2,9 @@ C:\_src\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.dll
 C:\_src\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.pdb
 C:\_src\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.dll
 C:\_src\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.csprojAssemblyReference.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.csproj.CoreCompileInputs.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.pdb

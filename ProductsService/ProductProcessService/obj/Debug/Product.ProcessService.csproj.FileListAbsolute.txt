@@ -7,3 +7,14 @@ C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.dll
 C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.pdb
 C:\_src\ProductsService\ProductProcessService\bin\Debug\Product.DataService.pdb
 C:\_src\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csprojResolveAssemblyReference.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DataService.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DataService.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csprojAssemblyReference.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.CoreCompileInputs.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.CopyComplete
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.pdb

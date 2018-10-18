@@ -9,3 +9,17 @@ C:\_src\ProductsService\Product.ProcessService.Tests\bin\Debug\ProductProcessSer
 C:\_src\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.csprojResolveAssemblyReference.cache
 C:\_src\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.dll
 C:\_src\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.ProcessService.Tests.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.ProcessService.Tests.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.DataService.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.DomainEntity.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\ProductProcessService.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.DomainEntity.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\Product.DataService.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\bin\Debug\ProductProcessService.pdb
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.csprojAssemblyReference.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.csproj.CopyComplete
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.dll
+C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.ProcessService.Tests\obj\Debug\Product.ProcessService.Tests.pdb
