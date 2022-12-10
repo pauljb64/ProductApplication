@@ -14,3 +14,12 @@ C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataS
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.csproj.CopyComplete
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.dll
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService\bin\Debug\Product.DataService.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService\bin\Debug\Product.DataService.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.csproj.AssemblyReference.cache
+C:\_src\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.csproj.CoreCompileInputs.cache
+C:\_src\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.csproj.CopyComplete
+C:\_src\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService\obj\Debug\Product.DataService.pdb

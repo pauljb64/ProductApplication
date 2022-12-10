@@ -18,3 +18,14 @@ C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProces
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.CopyComplete
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.dll
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.pdb
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.dll
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\ProductProcessService.pdb
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DataService.dll
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductApplication\ProductsService\ProductProcessService\bin\Debug\Product.DataService.pdb
+C:\_src\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.AssemblyReference.cache
+C:\_src\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.CoreCompileInputs.cache
+C:\_src\ProductApplication\ProductsService\ProductProcessService\obj\Debug\Product.ProcessService.csproj.CopyComplete
+C:\_src\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.dll
+C:\_src\ProductApplication\ProductsService\ProductProcessService\obj\Debug\ProductProcessService.pdb

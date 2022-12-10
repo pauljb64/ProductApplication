@@ -19,3 +19,15 @@ C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataS
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.csproj.CopyComplete
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.dll
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.Tests.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.Tests.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\bin\Debug\Product.DataService.pdb
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.csproj.AssemblyReference.cache
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.csproj.CoreCompileInputs.cache
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.csproj.CopyComplete
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.dll
+C:\_src\ProductApplication\ProductsService\Product.DataService.Tests\obj\Debug\Product.DataService.Tests.pdb

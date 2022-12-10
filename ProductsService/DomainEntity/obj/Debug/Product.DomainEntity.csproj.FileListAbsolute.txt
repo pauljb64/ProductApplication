@@ -8,3 +8,9 @@ C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.csproj.CoreCompileInputs.cache
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.dll
 C:\Users\paulj\Documents\GitHub\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.pdb
+C:\_src\ProductApplication\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.dll
+C:\_src\ProductApplication\ProductsService\DomainEntity\bin\Debug\Product.DomainEntity.pdb
+C:\_src\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.csproj.AssemblyReference.cache
+C:\_src\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.csproj.CoreCompileInputs.cache
+C:\_src\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.dll
+C:\_src\ProductApplication\ProductsService\DomainEntity\obj\Debug\Product.DomainEntity.pdb
